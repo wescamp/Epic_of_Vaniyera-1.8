@@ -1,0 +1,1397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2011-02-27 17:26+0100\n"
+"PO-Revision-Date: 2011-02-27 17:26+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mr\n"
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:10
+msgid "The Epic of Vaniyera"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:11
+msgid "EoV"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "Noble"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "Warlord"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "(hard)"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "(easy)"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:16
+msgid "(normal)"
+msgstr ""
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: Epic_of_Vaniyera/_main.cfg:23
+msgid ""
+"115-116 SI\n"
+"\n"
+"The expansionist Lavinian Legion, led by the Imperator himself, has invaded "
+"the northern forests of the Sidhe. It is up to the young Vaniyera to push "
+"its armies back from the border...\n"
+"\n"
+"(Novice level, 6 scenarios.)\n"
+"\n"
+msgstr ""
+
+#. [scenario]: id=1_Camp_of_Lavinium
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:5
+msgid "Camp of Lavinium"
+msgstr ""
+
+#. [side]: type=Wild Elf Veiledblade, id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:19
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:24
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:19
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:21
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:38
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:24
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:32
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:19
+msgid "Vaniyera"
+msgstr ""
+
+#. [side]: type=Wild Elf Thunderblade, id=Faolan
+#. [unit]: id=Faolan, type=Wild Elf Thunderblade
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:37
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:28
+msgid "Faolan"
+msgstr ""
+
+#. [side]: type=Lavinian Imperator, id=Primus M
+#. [unit]: id=Primus M, type=Lavinian Imperator
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:38
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:44
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:38
+msgid "Primus Maximus"
+msgstr ""
+
+#. [side]: type=Lavinian Centurion, id=Venius R
+#. [unit]: id=Venius R, type=Lavinian Centurion
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:38
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:51
+msgid "Venius Rostrus"
+msgstr ""
+
+#. [unit]: id=Claudius S, type=Lavinian Aquilifer
+#. [side]: type=Lavinian Aquilifer, id=Claudius S
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:58
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:60
+msgid "Claudius Silvestrus"
+msgstr ""
+
+#. [side]: type=Lavinian Centurion, id=Marsis V
+#. [unit]: id=Marsis V, type=Lavinian Centurion
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:81
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:65
+msgid "Marsis Vesuvius"
+msgstr ""
+
+#. [unit]: id=Agrippa C, type=Lavinian Praetorian Guard
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:72
+msgid "Agrippa Calcedus"
+msgstr ""
+
+#. [unit]: id=Silvius L, type=Lavinian Praetorian Guard
+#. [side]: type=Lavinian Praetorian Guard, id=Silvius L
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:79
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:82
+msgid "Silvius Laetirus"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:88
+msgid "PART ONE: ANABASIS OF THE EMPEROR..."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:91
+msgid ""
+"It had been over a hundred years since we arrived on this Continent of "
+"Promise and found new enemies. From the moment of our arrival chaos reigned. "
+"From that time to this very day the Marauders have battled with us to the "
+"death."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:94
+msgid ""
+"Our King Vanimaro, Lord of the Thunder, died securing the lands where we now "
+"live. He led us from the lost lands of the Old Isle to this great forest and "
+"the splendor of Mount Stormkeep."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:97
+msgid ""
+"After his death, our brethren the Issaelfr abandoned us and allied with the "
+"Marauder rabble. We were left alone in our struggle to survive on this "
+"continent."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:100
+msgid ""
+"I am Vaniyera, one-time disciple of Faolan, a Thunderblade on our great "
+"Council. I do not purpose to tell the tale of the Thunderblades, though it "
+"is a great and long one. Instead, I will speak of those other men from the "
+"south, the Lavinians, and their invasion of our lands."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:103
+msgid ""
+"Faolan and I heard rumors that the Lavinians had come northwards. We "
+"travelled to the southern borders of our Western March to see if these "
+"rumors were true. Indeed, we saw a host of Lavinians encamped just south of "
+"the tree-line."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:106
+msgid ""
+"We decided to come closer in the hopes of overhearing their plans. The "
+"Lavinian campfire was bright in the distance, but we were cautious and "
+"careful to not be seen..."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:122
+msgid ""
+"Now, men, our enemy is in the forests ahead of us. They may be only a few "
+"yards outside our camp, listening."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:126
+msgid "What matter? They cannot challenge us. Let them hear our plans!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:130
+msgid ""
+" Silence! These elves are not to be underestimated. We have never before "
+"faced their kind - they are newcomers to the land - but if the rumors are "
+"true, they are centuries old and carry with them the experience of many "
+"battles."
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:134
+msgid "Nevertheless, they shall fall before our blades!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:138
+msgid ""
+"Do not be arrogant, Centurion! You know what befell the prideful Dardan "
+"heroes of old. Now listen. Our plan is simple. Since we must fight in "
+"forest, we cannot afford a draw-out battle. We must move swiftly, pushing "
+"forwards until we reach the foothills of the fey mountain, where our armies "
+"will be in the open and able to defeat the elves."
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:142
+msgid "And we surely shall... soon the elves will be ours!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:146
+msgid "Not before your life is mine!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:150
+msgid "Now, men, rest yourselves and your troops in preparation for battle."
+msgstr ""
+
+#. [message]: id=Athus
+#. [message]: id=Silvius L
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:278
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:154
+msgid "Aye!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:158
+msgid "Good! Rest tonight. Tomorrow we shall strike."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:162
+msgid ""
+"Tomorrow? We have barely any time left, Vaniyera! I will go quickly and "
+"prepare the first line of defense. You remain here until they move out, then "
+"report back. Once you return I must attempt to reach Mount Stormkeep and "
+"warn the council..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:166
+msgid "Yes, Master. A safe journey to you."
+msgstr ""
+
+#. [scenario]: id=2_Ambush
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:5
+msgid "Ambush"
+msgstr ""
+
+#. [side]: type=Marauder Scorcher, id=Sovjurn
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:39
+msgid "Sovjurn Albensson"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:50
+msgid ""
+"Morning broke and the Lavinian camp began to come alive. I lingered for some "
+"time on the hill above them, hidden by the trees, watching the men go about "
+"their routine."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:53
+msgid ""
+"The humans, though savage, proved to be quite interesting. They are cursed "
+"with a short life, like the dash between birth and death dates on their "
+"tombstones. They live for war, and their only true victory is survival. All "
+"this I saw as they prepared for the day's activities."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:56
+msgid ""
+"As I was thinking this they broke camp, headed for our own lands. I went the "
+"same direction with great speed to warn Faolan. Then a Marauder raiding "
+"party blocked my path..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:71
+msgid "Bring Vaniyera to the end of the road"
+msgstr ""
+
+#. [objective]: condition=win
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:75
+msgid "Defeat enemy leader (bonus)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:250
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:94
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:118
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:79
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:93
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:122
+msgid "Death of Vaniyera"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:90
+msgid "Fools! Out of my way!"
+msgstr ""
+
+#. [message]: id=Sovjurn
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:94
+msgid "Never! You Sidhe will pay for your theft of our ancient lands!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:98
+msgid ""
+"Imbeciles! Perhaps I can skirt around these men and not waste time engaging "
+"them in combat..."
+msgstr ""
+
+#. [message]: id=Sovjurn
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:102
+msgid "To battle!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:106
+msgid "Sigh..."
+msgstr ""
+
+#. [message]: id=Sovjurn
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:118
+msgid "Aaargh! You Sidhe think you're so... ugh."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:129
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:145
+msgid "Finally, on to the forests of Sidhe."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:157
+msgid ""
+"Damn! The Lavinians have surely taken Faolan by surprise already. I have "
+"failed."
+msgstr ""
+
+#. [scenario]: id=3_Too_Late
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:5
+msgid "Too Late"
+msgstr ""
+
+#. [side]: type=Lavinian Rorarius, id=Marcellus
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:56
+msgid "Marcellus"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:67
+msgid ""
+"After dispersing the marauders, we continued on to our lands, hoping we had "
+"not lost too much time. As we approached the nearest outpost, however, we "
+"were greeted only by the stench of smoke and blood."
+msgstr ""
+
+#. [unit]: id=Braman, type=Wild Elf Bladespinner
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:81
+msgid "Braman"
+msgstr ""
+
+#. [objective]: condition=win
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:246
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:90
+msgid "Defeat the Lavinians"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:104
+msgid ""
+"My outpost... destroyed! I fear that the Lavinians have already reached "
+"Faolan's fortress... I hope he can withstand them."
+msgstr ""
+
+#. [message]: id=Braman
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:108
+msgid "Faolan will not be beaten easily, lord."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:112
+msgid "True, he had never backed down against any odds."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:116
+msgid "Who goes there, friend or foe?"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:120
+msgid "Foe!"
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:124
+msgid "Ah, a challenge!"
+msgstr ""
+
+#. [message]: id=Marcellus
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:128
+msgid "Venius - let me take him. I can defeat him alone."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:132
+msgid ""
+"Oh, really? Very well, let it be so. (Perhaps I can finally be rid of you.)"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:136
+msgid ""
+"You insult me, sending such a weakling as this. No matter, he will perish "
+"with you."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:140
+msgid "Feisty, are we?"
+msgstr ""
+
+#. [message]: id=Marcellus
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:151
+msgid "No... Avenge me!... urgh."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:155
+msgid "Avenge you? Ha! Finally that fool is where he belongs."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:166
+msgid "Now that the weakling is gone the true battle can begin."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:170
+msgid "Indeed."
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:181
+msgid "What? How could an uncouth elf like you slay the likes of me?..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:185
+msgid "You were unwise to challenge the Sidhe, dog!"
+msgstr ""
+
+#. [message]: id=Venius R
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:189
+msgid "Urgh..."
+msgstr ""
+
+#. [message]: id=Marcellus
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:200
+msgid "This is turning sour. Let us pull back..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:204
+msgid ""
+"I do hope Faolan is still alive. I can see the borders of his fortress in "
+"the forests ahead."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:216
+msgid ""
+"The Lavinians have surely slain Faolan by now, outnumbering him as they did. "
+"I have failed."
+msgstr ""
+
+#. [scenario]: id=4_Just_in_Time
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:4
+msgid "Just in Time"
+msgstr ""
+
+#. [side]: type=Lavinian Propugnator, id=Quantis
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:59
+msgid "Quantis"
+msgstr ""
+
+#. [side]: type=Lavinian Rorarius, id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:103
+msgid "Athus"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:118
+msgid ""
+"There was no time to waste. That the outpost had been destroyed was proof - "
+"if proof was needed - that the danger was real, and that the Lavinians were "
+"advancing."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:121
+msgid ""
+"As we approached another of our strongholds in the region, we saw smoke once "
+"again rising from the forest. We feared that we would find this fortress "
+"destroyed, as had been the other, but the battle had barely begun."
+msgstr ""
+
+#. [unit]: type=Wild Elf Tracker, id=Cardrew
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:143
+msgid "Cardrew"
+msgstr ""
+
+#. [unit]: type=Wild Elf Warmage, id=Finobar
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:151
+msgid "Finobar"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:254
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:122
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:97
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:126
+msgid "Death of Faolan"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:266
+msgid "The stronghold is under attack! Master Faolan, we have brought help."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:270
+msgid ""
+"I knew you would not fail me, Vaniyera. Into the fray, quickly, there is no "
+"time to lose!"
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:274
+msgid ""
+"The elves have received reinforcements. We'll need to defend our backs, men. "
+"Athus, hold the forests. Quantis, give us some cavalry support."
+msgstr ""
+
+#. [message]: id=Quantis
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:282
+msgid "Yes sir!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:286
+msgid ""
+"Remember the outposts! If they could, they would turn the entire forest to "
+"ash. They have no pity for us, have none for them."
+msgstr ""
+
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:297
+msgid "Mercy!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:301
+msgid "Remember those whom you gave no mercy to, lavinian dog!"
+msgstr ""
+
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:305
+msgid "Aaagh!..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:309
+msgid "There, the chieftain is slain. But... why do they not retreat?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:313
+msgid ""
+"That man was merely an underling of Marsis. Not even a Lavinian either. The "
+"real enemy still stands."
+msgstr ""
+
+#. [message]: id=Quantis
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:324
+msgid "Aaiyy..."
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:328
+msgid "It is a shame Quantis is dead. Avenge him, men!"
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:339
+msgid "Aaargh!..."
+msgstr ""
+
+#. [message]: id=Quantis
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:343
+msgid "Pull back, men! I shan't die here."
+msgstr ""
+
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:352
+msgid ""
+"Mercy! We are mere tribesmen enslaved by the Lavinians and forced to fight "
+"for them. We hold you no grudge!"
+msgstr ""
+
+#. [message]: id=Cardrew
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:356
+msgid ""
+"Then you have nothing to fear from death! I shall make it quick and painless."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:363
+msgid "Calm yourself! You, man, what offer you us in exchange for your life?"
+msgstr ""
+
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:367
+msgid "My men and I will fight by your side against the hated Lavinians."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:371
+msgid "Can we trust him?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:375
+msgid ""
+"Maybe, maybe not. Let us be careful... Athus, we have one condition - you "
+"will not fight by our side, you will fight for us, not as a commander, as a "
+"common fighter. Do you accept?"
+msgstr ""
+
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:379
+msgid "The choice is between this and death! Yes, I accept!"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:395
+msgid ""
+"The stronghold itself is safe for a while, now. Hold it until I return - I "
+"head for Mount Stormkeep."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:399
+msgid ""
+"Wait! I do not think that is good strategy. We will lose too much time. We "
+"must take this fight back to their camps, then into Lavinian lands. Show "
+"them what they have done to us."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:403
+msgid ""
+"Perhaps you are right - but I do not like it. Even if you will not delay "
+"this battle for a journey to Mount Stormkeep, we cannot defeat these "
+"Lavinians alone. Come, follow me - a small detour is required."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:423
+msgid "I hear the drums of Lavinia from afar."
+msgstr ""
+
+#. [message]: id=Marsis V
+#: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:427
+msgid "Reinforcements! At last."
+msgstr ""
+
+#. [scenario]: id=5_Remnants_of_the_Past
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:4
+msgid "Remnants of the Past"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:56
+msgid ""
+"Faolan led us into a marshy wood to the west. He refused to tell me why. He "
+"pressed onward, ever faster, saying we had to reach a certain place before "
+"the night began."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:59
+msgid ""
+"When we reached our destination, Faolan pulled me aside. 'This,' he said, "
+"'is the field upon which one of the greatest battles against the Marauders "
+"was fought.'"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:62
+msgid ""
+"'At night, the spirits of the fallen men return to this place and do battle "
+"once again with the shades of elven warriors.'"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:65
+msgid ""
+"'It is also the burial-place of one of Vanimaro's greatest disciples - "
+"though he perished before Vanimaro, and was never made a Thunderblade.'"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:68
+msgid ""
+"'If this hero of old will fight at our side against the Lavinians, we may "
+"stand a chance of defeating them.'"
+msgstr ""
+
+#. [objective]: condition=win
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:89
+msgid "Move Faolan to the Old Hero's Tomb"
+msgstr ""
+
+#. [objectives]
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:100
+msgid "Recruitment is only possible on the first turn"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:111
+msgid ""
+"Now, the body of the great hero who fell in battle here lies nearby, and we "
+"must seek his aid. I do not know exactly where his tomb is, for it is "
+"unmarked and unhonored, but I believe it to be somewhere southwest of here."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:115
+msgid "When we discover it, I will approach it alone and converse with him."
+msgstr ""
+
+#. [unit]: type=Tortured Soul
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:119
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:125
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:131
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:138
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:167
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:181
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:195
+msgid "Fallen Shade"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:222
+msgid "This is where the old hero perished... he awakens."
+msgstr ""
+
+#. [unit]: id=Hero of Old, type=Sidhe Ancestor
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:227
+msgid "Hero of Old"
+msgstr ""
+
+#. [message]: id=Hero of Old
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:233
+msgid "Why do you call me from my sleep, young one?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:237
+msgid ""
+"To ask for your aid and wisdom. Men from the south pour into our forests, "
+"torching them and destroying our people."
+msgstr ""
+
+#. [message]: id=Hero of Old
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:241
+msgid ""
+"This is beyond words. If the land our father Vanimaro found for us is in "
+"peril, I will arise and fight to defend it. So say all us warriors of sidhe "
+"who have perished in ages past."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:256
+msgid ""
+"The sun rises already... alas, the dead will not linger under its light, and "
+"we do not have another day to spend here. We must return to the battle, and "
+"do without the aid of the spirits."
+msgstr ""
+
+#. [scenario]: id=6_Retribution
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:4
+msgid "Retribution"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:99
+msgid ""
+"Once we left the woods of the dead we marched south to the initial Lavinian "
+"camp. Faolan still urged us to send messengers to Mount Stormkeep, but he "
+"was unwilling to leave us himself, and no others were willing to flee from "
+"the battle in quest for aid that would come too late."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:102
+msgid ""
+"The Lavinian Legion may be the greatest fighting force in the world, but it "
+"proved here to be a giant with feet of clay. As we approached, we saw the "
+"camp was nearly empty, and open to attack. The battle had taken its toll on "
+"the Lavinians."
+msgstr ""
+
+#. [objective]: condition=win
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:114
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:118
+msgid "Kill Primus Maximus the Imperator"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:139
+msgid "Lavinian scum! Surrender or perish!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:143
+msgid ""
+"The elf has insulted us for the last time. We are the elite of the elite, "
+"warriors among warriors. We shall never surrender to one such as you."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:147
+msgid "Very well, prepare for death."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:151
+msgid ""
+"Our forces have been spread thin, this I know... Claudius, Silvius, defend "
+"me as I retreat to the Arendian border."
+msgstr ""
+
+#. [message]: id=Claudius S
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:155
+msgid "Yes Lord!"
+msgstr ""
+
+#. [message]: id=Silvius L
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:159
+msgid "It shall be done! But our forces will not hold for long."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:163
+msgid "Worry not, reinforcements will soon arrive. Hold out until then."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:167
+msgid ""
+"Vaniyera, take care! These reinforcements could arrive at any moment. We "
+"ought to refrain from battle until we know the extent of the enemy's army."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:171
+msgid ""
+"We could wait, yes - or we could take these few now so the reinforcements "
+"have nothing to reinforce. I choose the latter."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:175
+msgid "I suppose I cannot stop you..."
+msgstr ""
+
+#. [message]: id=Silvius L
+#. [message]: id=Claudius S
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:186
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:221
+msgid "Aargh!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:190
+msgid "Silvius has fallen! Who will hold the line now?"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:201
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:236
+msgid "I must flee - the defenses are breached."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:205
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:240
+msgid "The Imperator flees towards Arendia! Let us chase him!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:225
+msgid "Claudius, you fought well and bravely. Farewell until Elysium!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:258
+msgid "Guards, protect my retreat! I leave!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:298
+msgid "After him!"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:302
+msgid "No! We must defeat the men here first."
+msgstr ""
+
+#. [unit]: type=Nemidian Hippopotamus, id=Ayarus I
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:319
+msgid "Ayarus Intadus"
+msgstr ""
+
+#. [message]: id=Ayarus I
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:374
+msgid "Lord Imperator, we have arrived!"
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:378
+msgid "Hold the river!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:387
+msgid "I hear battle drums from afar."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:391
+msgid "The reinforcements have arrived. Soon we will be trapped in this pass."
+msgstr ""
+
+#. [scenario]: id=7_Arendian_Border
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:4
+msgid "Arendian Border"
+msgstr ""
+
+#. [side]: type=Arendian Horse Master, id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:56
+msgid "Drewyn"
+msgstr ""
+
+#. [side]: type=Arendian Warlord, id=Jacov
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:74
+msgid "Jacov"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:85
+msgid ""
+"We had driven the Emperor out of the forests of the Sidhe. He fled south, "
+"towards the Arendian River and safety."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:88
+msgid ""
+"Faolan wanted to let him flee. It did us no harm, he said, for the Emperor "
+"to live. But Faolan had not seen the ransacked outpost. I had. I would not "
+"allow this Emperor to escape from us if I could help it."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:91
+msgid ""
+"And so I convinced Faolan to continue the chase. We moved faster than the "
+"men, with their wagon-trains and heavy armor. We circled around them until "
+"they could no longer flee south, forcing them to turn to the west to evade "
+"us."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:94
+msgid ""
+"We eventually caught them against the slopes of the Arendian mountains - as "
+"it happened, just as the first winter snowstorm blew in."
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:97
+msgid ""
+"Ever the politicians, these men were. Once in Arendia, the Imperator "
+"convinced the men of that land, Arendians by blood, to ally with him in "
+"exchange for the forests of my people. He then wheeled his armies around to "
+"face us."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:135
+msgid ""
+"We have retreated from the wrath of the Sidhe thus far - but that ends now! "
+"Come, my Arendian friends, let us crush these elves together!"
+msgstr ""
+
+#. [message]: id=Jacov
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:139
+msgid "Aye, Lord Imperator! These elves will fall to our lances."
+msgstr ""
+
+#. [message]: id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:143
+msgid "Soon the Northern Forest shall be Arendian soil."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:147
+msgid "And ally to Lavinia."
+msgstr ""
+
+#. [message]: id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:151
+msgid "Aye, and ally to the imperial city."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:155
+msgid "I hope that this winter snow will slow their steeds..."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:159
+msgid "If it does not, little stands between the men and the great forest."
+msgstr ""
+
+#. [message]: id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:170
+msgid "The spirit wills... but the body..."
+msgstr ""
+
+#. [message]: id=Jacov
+#. [message]: id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:181
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:203
+msgid "You shall be avenged, brother! Come, Arendians all, rally to my flag!"
+msgstr ""
+
+#. [message]: id=Jacov
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:192
+msgid "I fall... curse the Lavinians and their broken promises..."
+msgstr ""
+
+#. [message]: id=Primus M
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:214
+msgid "I perish..."
+msgstr ""
+
+#. [message]: id=Drewyn
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:218
+msgid "The Imperator has fallen!"
+msgstr ""
+
+#. [message]: id=Jacov
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:222
+msgid "So, the Emperor is not immortal after all..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:233
+msgid "Finally, we have slain that cursed man!"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:237
+msgid ""
+"That man was the Imperator of the Lavinian Empire. Do not rejoice overmuch "
+"that we have thus incurred the wrath of a nation that powerful."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:248
+msgid ""
+"The winter has, I fear snowed us in, trapped in Arendian territory... I do "
+"not think we shall make it out alive."
+msgstr ""
+
+#. [scenario]: id=Epilogue
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:23
+msgid "Epilogue"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Leithan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:56
+msgid "Leithan"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Faelyndun
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:63
+msgid "Faelyndun"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Cadhla
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:70
+msgid "Cadhla"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Suileabin
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:77
+msgid "Suileabin"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Uidhir
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:84
+msgid "Uidhir"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Iarla
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:91
+msgid "Iarla"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Dubhain
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:98
+msgid "Dubhain"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Ceallayach
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:105
+msgid "Ceallayach"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Oisan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:112
+msgid "Oisan"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Daithi
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:119
+msgid "Daithi"
+msgstr ""
+
+#. [unit]: type=Wild Elf Thunderblade, id=Cylluinn
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:126
+msgid "Cylluinn"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Saoir
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:134
+msgid "Saoir"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Samhna
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:141
+msgid "Samhna"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:148
+msgid "Onnachadh"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Dayire
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:155
+msgid "Dayire"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Longsygh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:162
+msgid "Longsygh"
+msgstr ""
+
+#. [unit]: type=Wild Elf Stormlord, id=Maol
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:169
+msgid "Maol"
+msgstr ""
+
+#. [part]
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:176
+msgid ""
+"We returned victorious to the forests of the Western March, and from there "
+"travelled to Mount Stormkeep. A session of the Council had been summoned, "
+"belatedly, to respond to the Lavinian threat."
+msgstr ""
+
+#. [message]: id=Saoir
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:207
+msgid "Welcome, Faolan. Let the council of war commence."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:211
+msgid "Council of war, lord?"
+msgstr ""
+
+#. [message]: id=Samhna
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:215
+msgid "We have heard that the Lavinians have invaded the Western  March."
+msgstr ""
+
+#. [message]: id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:219
+msgid ""
+"Indeed, for that reason we have summoned the Thunderblades to this meeting. "
+"Did the messenger we sent not reach you? Yet you came none the less - "
+"perhaps to bring us news yourself of the invasion."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:223
+msgid ""
+"Yes, lords, I come with news from the battlefield. This council is called "
+"too late; the Lavinians have already fled."
+msgstr ""
+
+#. [message]: id=Suileabin
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:227
+msgid "Impossible!"
+msgstr ""
+
+#. [message]: id=Dayire
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:231
+msgid ""
+"Hold your peace, thunderblade! Faolan, you say the Lavinians have fled - how "
+"do you know they will not return?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:235
+msgid "The Imperator has fallen, Lord Dayire."
+msgstr ""
+
+#. [message]: id=Longsygh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:239
+msgid "What? You slew the Imperator? That seems... unwise."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:243
+msgid "Perhaps it was. Nevertheless, it is done, and the war is over."
+msgstr ""
+
+#. [message]: id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:247
+msgid ""
+"Indeed. It seems the forests are threatened no longer. Council, you are "
+"dismissed!"
+msgstr ""
+
+#. [message]: id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:259
+msgid ""
+"But, Faolan... you still must answer for your deeds. It was reckless to "
+"assault the might of the Lavinians with only one twelfth of the power of the "
+"Sidhe and slay their lord, inviting retaliation. Why did you do it?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:263
+msgid "It was not my doing, but that of my disciple Vaniyera. He is here now."
+msgstr ""
+
+#. [message]: id=Maol
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:267
+msgid "So, Vaniyera, what say you to this charge of recklessness?"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:271
+msgid ""
+"If I had not decisively defeated the Lavinians, they would have returned and "
+"slaughtered our people. Their army outnumbered ours; the only way to kill it "
+"was cut off the head."
+msgstr ""
+
+#. [message]: id=Saoir
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:275
+msgid ""
+"You ought to have waited for the Council to assemble. We would have shown "
+"our might to those men and made them fear the name of Sidhe. Instead, you "
+"have slain their lord, incurring a blood-vengeance."
+msgstr ""
+
+#. [message]: id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:279
+msgid ""
+"Let us hope that they take their defeat as a warning and not as a challenge "
+"to come at us with still greater strength."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:283
+msgid ""
+"They would have slaughtered our people and burned our forests before the "
+"Council acted."
+msgstr ""
+
+#. [message]: id=Dayire
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:287
+msgid ""
+"But it is likely that the Lavinians will retaliate for the death of Primus "
+"Maximus and kill many more of our people than would have otherwise died. You "
+"still have much to learn, young Vaniyera."
+msgstr ""
+
+#. [message]: id=Longsygh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:291
+msgid ""
+"Indeed he does. But I wonder - is Faolan willing to remain as Vaniyera's "
+"teacher?"
+msgstr ""
+
+#. [message]: id=Maol
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:295
+msgid ""
+"And even if he is, ought he to remain where he is? If there are no "
+"consequences for acting reckless, he will not teach himself to act otherwise."
+msgstr ""
+
+#. [message]: id=Saoir
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:299
+msgid ""
+"I concur. Well then, Vaniyera - I must pass sentence upon you. You are no "
+"longer the disciple of Faolan. I am sorry."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:303
+msgid "Yes, my lords."
+msgstr ""
+
+#. [message]: id=Onnachadh
+#: Epic_of_Vaniyera/scenarios/Epilogue.cfg:307
+msgid ""
+"But do not think us cruel... You show potential. We will make you disciple "
+"of another Thunderblade. Leithan would teach him restraint, I think..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#. [message]: id=Faolan
+#. [message]: id=Athus
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:88
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:101
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:137
+msgid "Aaagh!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:105
+msgid "Master! Without your guidance, we shall never win this war..."
+msgstr ""
+
+#. [message]: id=King of Old
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:118
+msgid "The grave, it beckons again..."
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:122
+msgid ""
+"With the old hero back into his slumber, who will call the spirits to fight "
+"for us?"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/utils/utils.cfg:141
+msgid "The tribesmen will not join us without Athus to rally them."
+msgstr ""
