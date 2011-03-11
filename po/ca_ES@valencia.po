@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-27 17:26+0100\n"
+"POT-Creation-Date: 2011-03-11 18:41+0100\n"
 "PO-Revision-Date: 2011-02-27 17:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ca_ES@valencia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca_ES@valencia\n"
 
 #. [campaign]: id=Epic_of_Vaniyera
 #: Epic_of_Vaniyera/_main.cfg:10
@@ -85,6 +85,7 @@ msgstr ""
 #. [unit]: id=Faolan, type=Wild Elf Thunderblade
 #: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:37
 #: Epic_of_Vaniyera/scenarios/1_Camp_of_Lavinium.cfg:28
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:40
 msgid "Faolan"
 msgstr ""
 
@@ -312,7 +313,7 @@ msgstr ""
 #: Epic_of_Vaniyera/scenarios/3_Too_Late.cfg:94
 #: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:118
 #: Epic_of_Vaniyera/scenarios/2_Ambush.cfg:79
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:93
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:104
 #: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:122
 msgid "Death of Vaniyera"
 msgstr ""
@@ -544,7 +545,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: Epic_of_Vaniyera/scenarios/4_Just_in_Time.cfg:254
 #: Epic_of_Vaniyera/scenarios/7_Arendian_Border.cfg:122
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:97
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:108
 #: Epic_of_Vaniyera/scenarios/6_Retribution.cfg:126
 msgid "Death of Faolan"
 msgstr ""
@@ -707,7 +708,7 @@ msgid "Remnants of the Past"
 msgstr ""
 
 #. [part]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:56
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:67
 msgid ""
 "Faolan led us into a marshy wood to the west. He refused to tell me why. He "
 "pressed onward, ever faster, saying we had to reach a certain place before "
@@ -715,7 +716,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:59
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:70
 msgid ""
 "When we reached our destination, Faolan pulled me aside. 'This,' he said, "
 "'is the field upon which one of the greatest battles against the Marauders "
@@ -723,38 +724,38 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:62
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:73
 msgid ""
 "'At night, the spirits of the fallen men return to this place and do battle "
 "once again with the shades of elven warriors.'"
 msgstr ""
 
 #. [part]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:65
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:76
 msgid ""
 "'It is also the burial-place of one of Vanimaro's greatest disciples - "
 "though he perished before Vanimaro, and was never made a Thunderblade.'"
 msgstr ""
 
 #. [part]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:68
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:79
 msgid ""
 "'If this hero of old will fight at our side against the Lavinians, we may "
 "stand a chance of defeating them.'"
 msgstr ""
 
 #. [objective]: condition=win
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:89
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:100
 msgid "Move Faolan to the Old Hero's Tomb"
 msgstr ""
 
 #. [objectives]
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:100
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:111
 msgid "Recruitment is only possible on the first turn"
 msgstr ""
 
 #. [message]: id=Faolan
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:111
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:120
 msgid ""
 "Now, the body of the great hero who fell in battle here lies nearby, and we "
 "must seek his aid. I do not know exactly where his tomb is, for it is "
@@ -762,45 +763,51 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Faolan
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:115
-msgid "When we discover it, I will approach it alone and converse with him."
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:124
+msgid "We fight against time itself! Recruit three units and follow me!"
+msgstr ""
+
+#. [message]: id=Faolan
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:128
+msgid ""
+"When we discover the tomb, I will approach it alone and converse with him."
 msgstr ""
 
 #. [unit]: type=Tortured Soul
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:119
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:125
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:131
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:132
 #: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:138
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:167
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:181
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:195
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:144
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:151
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:180
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:194
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:208
 msgid "Fallen Shade"
 msgstr ""
 
 #. [message]: id=Faolan
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:222
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:235
 msgid "This is where the old hero perished... he awakens."
 msgstr ""
 
 #. [unit]: id=Hero of Old, type=Sidhe Ancestor
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:227
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:240
 msgid "Hero of Old"
 msgstr ""
 
 #. [message]: id=Hero of Old
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:233
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:250
 msgid "Why do you call me from my sleep, young one?"
 msgstr ""
 
 #. [message]: id=Faolan
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:237
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:254
 msgid ""
 "To ask for your aid and wisdom. Men from the south pour into our forests, "
 "torching them and destroying our people."
 msgstr ""
 
 #. [message]: id=Hero of Old
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:241
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:258
 msgid ""
 "This is beyond words. If the land our father Vanimaro found for us is in "
 "peril, I will arise and fight to defend it. So say all us warriors of sidhe "
@@ -808,7 +815,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Faolan
-#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:256
+#: Epic_of_Vaniyera/scenarios/5_Remnants_of_the_Past.cfg:273
 msgid ""
 "The sun rises already... alas, the dead will not linger under its light, and "
 "we do not have another day to spend here. We must return to the battle, and "
